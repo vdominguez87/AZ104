@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'VVTB'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB5D38B2A2CC475280F1D2A3C8A9F875 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1CA7C45C8D9D445289BA02EE2FBAB9D2 }}
